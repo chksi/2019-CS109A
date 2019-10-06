@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Title: Lab 04: Multiple and Polynomial Regression
 Category: labs
 Slug: lab04/notebook
+=======
+Title: Lab 4: Multiple and Polynomial Regression
+Category: labs
+Slug: lab04
+>>>>>>> upstream/master
 Author: Rahul Dave, David Sondak, Will Claybaugh, Pavlos Protopapas, Chris Tanner
 Date: 2019-09-26
 Tags: linear regression, multinomial regression, polynomial regression, cross-validation
