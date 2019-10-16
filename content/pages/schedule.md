@@ -3,6 +3,7 @@ Slug: schedule
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date: 2019-09-23
 =======
 Date: 2019-09-25
@@ -12,6 +13,9 @@ Date: 2019-09-27
 >>>>>>> upstream/master
 =======
 Date: 2019-10-04
+>>>>>>> upstream/master
+=======
+Date: 2019-10-11
 >>>>>>> upstream/master
 
 
